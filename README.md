@@ -1,2 +1,2 @@
 # TCS Torment
-My notes from my classes at TCS, JU (mostly).
+My notes taken during classes at the Faculty of Mathematics and Computer Science, Jagiellonian University.
